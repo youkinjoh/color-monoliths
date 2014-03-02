@@ -1,0 +1,18 @@
+{
+  "name": "color-monoliths",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ws": "*",
+    "express": ">=3.2.0",
+    "optimist": "*",
+    "node-uuid": "*"
+  },
+  "engines": {
+    "node": "0.10.*",
+    "npm":  "1.2.*"
+  }
+}
